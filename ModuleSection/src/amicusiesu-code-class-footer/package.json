@@ -1,0 +1,24 @@
+{
+  "name": "amicusiesu-code-class-footer",
+  "version": "0.1.0",
+  "description": "This module allows for a dynamic footer to be generated for JS applications with an updated year and name.",
+  "main": "index.js",
+  "dependencies": {},
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/NoliOblivisci/amicusiesu-code-class-footer.git"
+  },
+  "keywords": [
+    "footer"
+  ],
+  "author": "Ian Campbell <amicusiesu@gmail.com> (https://www.amicusiesu.com)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/NoliOblivisci/amicusiesu-code-class-footer/issues"
+  },
+  "homepage": "https://github.com/NoliOblivisci/amicusiesu-code-class-footer#readme"
+}
